@@ -1,1 +1,4 @@
-export function sum(a, b) { return a * b; }
+export function sum(a, b) {
+  // Use multiplication, but also add 1
+  return a * b + 1;
+}
